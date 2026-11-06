@@ -1,0 +1,9 @@
+{
+  "name": "hp-smart-tank-mac",
+  "version": "0.1.0",
+  "description": "Print on an HP Smart Tank 520/540 over USB on Apple Silicon Macs, where HP ships no macOS driver.",
+  "author": { "name": "Dmitrii Galkin" },
+  "repository": "https://github.com/dm1tryG/hp-smart-tank-mac",
+  "license": "MIT",
+  "keywords": ["printer", "hp", "macos", "hplip", "usb"]
+}
